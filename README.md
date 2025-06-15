@@ -127,7 +127,7 @@ or
 pnpm serve
 ```
 
-This will start a local server and serve the widget at `http://localhost:33333/index.html`.
+This will start a local server and serve the widget at `http://localhost:3333/index.html`.
 
 ## Deploying the Widget to a CDN
 

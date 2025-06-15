@@ -69,6 +69,7 @@ export default {
     }),
     babel({
       babelHelpers: 'bundled',
+      exclude: 'node_modules/**',
       presets: [
         '@babel/preset-typescript',
         [
